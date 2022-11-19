@@ -1,0 +1,34 @@
+.image{
+    background-image: url("https://flightsimulator-storage-cdn.azureedge.net/videos/hero-21.9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100% ;
+    color: azure;
+    padding-bottom: 4%;
+
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: azure;
+}
+
+.form{
+    margin: 0 auto;
+    border: 1px solid black;
+    box-shadow: white 2px 2px 7px 4px;
+    width: 50%;
+}
+
+.input{
+    /* width: 17rem; */
+    text-align: center;
+    outline: none;
+}
+.input:hover{
+    box-shadow: black 4px 2px 1px 1px;
+}
+.select{
+    width: 70%;
+    margin-left: 30px;
+}
